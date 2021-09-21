@@ -3,7 +3,7 @@
 **SMLinux Script Backup**
 
 Hmmm, Seems like Enigma9o7's Account was deleted.
-This is an effort to recover the original script while retrieving its needed sources from this repository.
+This is an effort to recover the original script while retrieving its needed sources from another GitGud repo.
 The dream that is smlinux is now revived!
   ____________________
   Platforms Supported:
